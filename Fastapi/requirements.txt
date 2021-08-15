@@ -1,0 +1,11 @@
+numpy 
+joblib 
+pandas 
+matplotlib 
+seaborn 
+sklearn 
+nltk 
+surprise 
+jinja2 
+python-multipart 
+aiofiles
